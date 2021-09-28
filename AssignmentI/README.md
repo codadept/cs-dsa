@@ -2,6 +2,6 @@
 
 ## Problem statements
 
-<object data="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/ProblemStatements.pdf" width="1000" height="1000" type='application/pdf'></object>
+<a href="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/ProblemStatements.pdf" class="image fit" type="application/pdf">Problem Statements</a>
 
 - Submission Due: 10 October 2021 5:00 PM IST
