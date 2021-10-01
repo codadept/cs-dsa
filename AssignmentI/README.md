@@ -10,8 +10,8 @@
 
 #### For Sorted Input
 
-<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/assets/sorted-input" alt="sorted input">
+<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/assets/sorted-input.png" alt="sorted input">
 
 #### For Random Input
 
-<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/assets/random-input" alt="random input">
+<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentI/assets/random-input.png" alt="random input">
