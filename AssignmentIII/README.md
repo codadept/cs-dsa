@@ -47,3 +47,13 @@
 #### where i, and j are index, key is to be searched/inserted/deleted, r is the total number of rotations/shifting.
 
 - Submission Due: 24 October 2021 5:00 PM IST
+
+## Performance of Insertion Sort
+
+### Bar Graph
+
+<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentIII/insertionSortAnalysis.png" alt="Insertion Sort">
+
+### Line Graph
+
+<img src="https://github.com/codadept/cs-dsa/blob/master/AssignmentIII/insertionSortAnalysisLineGraph.png" alt="Insertion Sort Line Graph">
