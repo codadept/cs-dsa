@@ -1,5 +1,12 @@
 # Assignment-III, Data Structures, Course Code: CS 201
 
+```css
+.SubmittedBy {
+  name: Pratik Majumdar;
+  scholarid: 2012005;
+}
+```
+
 ## Problem statements
 
 ### 1. How to generate unique string hash value? For instance, input: ”CSE Rocks”, Output: Some integer value
