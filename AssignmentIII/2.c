@@ -1,5 +1,5 @@
 // =============================================================
-// Assignment III Q1
+// Assignment III Q2
 // Name: Pratik Majumdar
 // Scholar Id; 2012005
 // Date 2021-10-22 19:54:41
@@ -93,6 +93,8 @@ int main() {
         break;
     }
 
+    if(choice == 4) break;
+
     clock_t start = clock();
 
     insertionSort(n, arr);
@@ -100,8 +102,6 @@ int main() {
     clock_t end = clock();
     
     printf("Total time taken by insertion sort: %f\n", (double)(end - start)/(double)CLOCKS_PER_SEC);
-
-    if(choice == 4) break;
   }
 
 
